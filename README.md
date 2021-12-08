@@ -16,7 +16,7 @@ Our application will use the Django REST framework (DRF) to provide a backend AP
 
 There are many advantages in keeping the frontend and backend decoupled. The project is more maintainable and easier for frontend and backend teams to work on independently while also reducing server costs (because the frontend is static) and increasing page load speeds through CDNs.
 
-You can clone the completed application from [GitHub](https://github.com/ykeyani/django-react-guide-guide) and download this document as a pdf.
+You can clone the completed application from [GitHub](https://github.com/ykeyani/django-react-guide-guide) and download this document as a [pdf](https://github.com/ykeyani/django-react-guide/blob/8d7fbd04f3e676e66b506b700488b75a5691ea6b/building-a-web-application-using-django-and-react.pdf).
 
 ### Who is this for?
 The reader should have a basic understanding of [python](https://docs.python.org/3/) and [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
